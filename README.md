@@ -1,2 +1,2 @@
-# testePraticoJava
+# testePratico
 TESTE PRÁTICO PROGRAMAÇÃO
